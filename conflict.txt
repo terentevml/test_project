@@ -1,1 +1,3 @@
 Line changed in master
+Line changed in branch2
+
